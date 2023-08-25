@@ -1,3 +1,2 @@
 ### Hi there 👋
-- 🔭 I’m currently a last year PhD student at the CRAN laboratory in Nancy, France
-- 🌱 I’m interested in the applicability of reinforcement learning for decision-support systems, computer vision and natural language processing
+- 🌱 I’m a curious guy interested in reinforcement-learning-based automatic control, decision-support systems, computer vision and natural language processing.
